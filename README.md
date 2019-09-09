@@ -39,7 +39,7 @@ http://ruder.io/state-of-transfer-learning-in-nlp/
 |  | [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/pdf/1809.08370) | [Hyeonju Lee](https://github.com/hyoenju) |  |  |NER |
 |  | [SciBERT: Pretrained Contextualized Embeddings for Scientific Text](https://arxiv.org/pdf/1903.10676) | [Seokkyu Choi](https://github.com/choiseokkyu) |  |  | RE |
 |  | [BERT for Coreference Resolution: Baselines and Analysis](https://arxiv.org/pdf/1908.09091) | [Sion Jang](https://github.com/Janguck)  |  |  | CR |
-|  | [Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation](https://arxiv.org/pdf/1905.05677) |   |  |  | WSA |
+|  | [Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation](https://arxiv.org/pdf/1905.05677) | [Jeyoung Kim](https://github.com/kimjeyoung) |  |  | WSA |
 |  | [CRIM at SemEval-2018 Task 9: A Hybrid Approach to Hypernym Discovery](https://www.aclweb.org/anthology/S18-1116) | [Hyeonju Lee](https://github.com/hyoenju) |  |  | Hypernym |
 
 
