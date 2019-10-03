@@ -22,7 +22,7 @@ http://ruder.io/state-of-transfer-learning-in-nlp/
 | 09/18 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) | [Jeyoung Kim](https://github.com/kimjeyoung)  | [ppt](https://drive.google.com/open?id=1_NXPgWaRQw4udewz8JHPs4_T-HttZ7Q5q1jecby2ekk) |  | MT |
 | 09/25 | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762v5.pdf) | [Hyeonju Lee](https://github.com/hyoenju) |  |  | LM |
 | 09/25 | [Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122.pdf) | [Seokkyu Choi](https://github.com/choiseokkyu)  |  |  | MT |
-| 10/02 | [Multimodal Machine Translation with Embedding Prediction](https://www.aclweb.org/anthology/N19-3012) | [Sion Jang](https://github.com/Janguck)  |  |  | MT |
+| 10/02 | [Multimodal Machine Translation with Embedding Prediction](https://www.aclweb.org/anthology/N19-3012) | [Sion Jang](https://github.com/Janguck)  | [ppt](https://docs.google.com/presentation/d/16M_ZjjghWRMeQ82fW4N9B3pDsXUYICWJpZFQ6jPZbtA/edit?usp=sharing) |  | MT |
 | 10/02 | [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf) | [Jeyoung Kim](https://github.com/kimjeyoung) |  |  | LM |
 | 10/16 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) | [Hyeonju Lee](https://github.com/hyoenju) |  |  | LM |
 | 10/16 | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) | [Seokkyu Choi](https://github.com/choiseokkyu) |  |  | LM |
