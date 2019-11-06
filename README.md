@@ -26,7 +26,7 @@ http://ruder.io/state-of-transfer-learning-in-nlp/
 | 10/02 | [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf) | [Jeyoung Kim](https://github.com/kimjeyoung) |  |  | LM |
 | 10/16 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) | [Hyeonju Lee](https://github.com/hyoenju) |  |  | LM |
 | 10/16 | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) | [Seokkyu Choi](https://github.com/choiseokkyu) |  |  | LM |
-| 10/23 | [OpenKE: An Open Toolkit for Knowledge Embedding](https://www.aclweb.org/anthology/D18-2024) | [Sion Jang](https://github.com/Janguck) |  |  | QA |
+| 10/23 | [OpenKE: An Open Toolkit for Knowledge Embedding](https://www.aclweb.org/anthology/D18-2024) | [Sion Jang](https://github.com/Janguck) | [ppt](https://drive.google.com/open?id=1SbqS9FYUzvMdyYuc3yttgELj98AxUmQq) |  | QA |
 | 10/23 | [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/pdf/1704.00051.pdf) | [Jeyoung Kim](https://github.com/kimjeyoung) |  |  | QA |
 | 10/30 | [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/pdf/1611.01603) | [Hyeonju Lee](https://github.com/hyoenju) |  |  | QA |
 | 10/30 | [Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases](https://arxiv.org/pdf/1903.02188) | [Seokkyu Choi](https://github.com/choiseokkyu) |  |  | QA |
